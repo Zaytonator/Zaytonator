@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Zaytonator
-- 👀 I’m interested in Music, Developing Music, making game soundtracks 
-- 💞️ I’m looking to collaborate on game music. anyone who is super into music and would love to collab/give advice on some game soundtracks
-- 📫 you can reach me via my discord - Zaytonator <3#9578
+- 👀 I’m interested in photography and music
+- 📫 you can reach me via my discord - Zaytonator#2651
 
 <!---
 Zaytonator/Zaytonator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
